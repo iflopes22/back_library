@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "description": "Caneta de cor Azul BIC",
+      "price": 5.89
+    },
+    {
+      "name": "Harry Potter",
+      "description": "Filme do magico",
+      "price": "80",
+      "id": 2
+    }
+  ]
+}
