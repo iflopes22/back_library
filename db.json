@@ -12,5 +12,16 @@
       "price": "80",
       "id": 2
     }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Guilherme",
+      "cpf": 12345678927,
+      "tel": 11111111111,
+      "endereco":"rua maria das dores",
+      "email": "gui19880@gmail.com",
+      "senha": "asdqwe12323"
+    }
   ]
 }
